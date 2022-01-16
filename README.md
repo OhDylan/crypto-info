@@ -4,7 +4,7 @@
 
 This is a SPA that was built with:
 
-> ###### Frontend: React, Ant Design Library, Chart.js, Redux Tool Kit> 
+> ###### Frontend: React, Ant Design Library, Chart.js, Redux Tool Kit
 > ###### API: Rapid API (Coinranking, Bing News Search)
 
 Try out the live demo here:
